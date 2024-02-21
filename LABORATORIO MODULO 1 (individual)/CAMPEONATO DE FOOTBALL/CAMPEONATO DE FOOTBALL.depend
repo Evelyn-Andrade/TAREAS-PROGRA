@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1708529421 source:c:\users\usuario\desktop\3er semestre\tareas de progra\laboratorio modulo 1 (individual)\campeonato de football\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
