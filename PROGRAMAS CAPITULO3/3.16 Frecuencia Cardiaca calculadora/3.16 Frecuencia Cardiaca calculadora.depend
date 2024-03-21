@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710981510 source:c:\users\usuario\desktop\3er semestre\tareas de progra\programas capitulo3\3.16 frecuencia cardiaca calculadora\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+
